@@ -21,10 +21,11 @@
 </div>
 
 ## Github Stats 😁👆
-
+<div>
 <a href="https://github.com/rayhunts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhunts&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/rayhunts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayhunts&show_icons=true&theme=onedark" />
 </a>
+</div>
