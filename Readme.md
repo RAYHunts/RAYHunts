@@ -17,7 +17,7 @@ I have gained valuable experience during my 1-year journey as a Fullstack Develo
 
 ## Get in Touch
 - 📫 You can reach me via email at [rayhunts710@gmail.com](mailto:rayhunts710@gmail).
-- 🐦 Connect with me on LinkedIn: [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://www.linkedin.com/in/rayhunts/)).
+- 🐦 Connect with me on LinkedIn: [RAY Hunts](https://www.linkedin.com/in/rayhunts/).
 
 ## Let's Collaborate!
 I'm always excited about the possibility of collaborating on interesting projects. If you're interested in working together or have any cool ideas, don't hesitate to get in touch!
