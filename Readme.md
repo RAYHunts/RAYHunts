@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile!
 
-![Profile Banner]([https://avatars.githubusercontent.com/u/89432606?v=4])
+![Profile Banner](https://avatars.githubusercontent.com/u/89432606?v=4)
 
 ## About Me
 Hey! I'm RAY Hunts, a passionate Fullstack Developer with a love for all things Frontend! I thrive on creating seamless user experiences, and I'm particularly fond of frontend development. Currently, I'm diving deep into the world of React.js and Next.js, expanding my skills and building awesome projects along the way.
