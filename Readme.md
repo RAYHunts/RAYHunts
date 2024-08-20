@@ -15,7 +15,7 @@ Hey! I'm RAY Hunts, a passionate Fullstack Developer with a love for all things 
 ## Experience
 I have gained valuable experience during my 1-year journey as a Fullstack Developer at Venturo. Working on diverse projects and solving real-world challenges has honed my problem-solving abilities and made me more resilient as a developer.
 
-##Portofolios 
+## Portofolios 
 Assosiated with Venturo
 - [Hayyu](https://hayyu.id/) | Fullstack Web Developer
 - [Bolong.id](https://bolong.id) | Fullstack Web Developer
