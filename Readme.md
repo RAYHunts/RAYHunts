@@ -15,16 +15,17 @@ Hey! I'm RAY Hunts, a passionate Fullstack Developer with a love for all things 
 ## Experience
 I have gained valuable experience during my 1-year journey as a Fullstack Developer at Venturo. Working on diverse projects and solving real-world challenges has honed my problem-solving abilities and made me more resilient as a developer.
 
-## Portofolios 
+## Portofolio 
 Assosiated with Venturo
 - [Hayyu](https://hayyu.id/) | Fullstack Web Developer
 - [Bolong.id](https://bolong.id) | Fullstack Web Developer
 - [Pasar Turi](https://pasarturi.id) | Fullstack Web Developer
 - [Bobobox](https://bobobox.com/) | Outsource Frontend Developer
 - [Pawmeals](https://pawmeals.co/) | Frontend Developer
-- [BNT Global](https://bnt-global.com/) | Frontend Developer - Web App
+- [BNT Global](https://bnt-global.com/) | Frontend Developer
 - [Khayangan Estate](https://khayanganestate.com/) | Fullstack Developer
 - [BPR Tanjung Tani](https://bprtanjungtani.co.id/) | Fullstack Developer
+- [Suparma E-commerce](https://shop.ptsuparmatbk.com/) | Frontend Developer
 
 ## Get in Touch
 - 📫 You can reach me via email at [rayhunts710@gmail.com](mailto:rayhunts710@gmail).
